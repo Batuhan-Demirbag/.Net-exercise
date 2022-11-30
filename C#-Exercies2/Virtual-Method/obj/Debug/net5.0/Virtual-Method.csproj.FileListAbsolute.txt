@@ -1,0 +1,16 @@
+C:\Users\Batuhan Demirbağ\source\repos\Virtual-Method\bin\Debug\net5.0\Virtual-Method.exe
+C:\Users\Batuhan Demirbağ\source\repos\Virtual-Method\bin\Debug\net5.0\Virtual-Method.deps.json
+C:\Users\Batuhan Demirbağ\source\repos\Virtual-Method\bin\Debug\net5.0\Virtual-Method.runtimeconfig.json
+C:\Users\Batuhan Demirbağ\source\repos\Virtual-Method\bin\Debug\net5.0\Virtual-Method.runtimeconfig.dev.json
+C:\Users\Batuhan Demirbağ\source\repos\Virtual-Method\bin\Debug\net5.0\Virtual-Method.dll
+C:\Users\Batuhan Demirbağ\source\repos\Virtual-Method\bin\Debug\net5.0\ref\Virtual-Method.dll
+C:\Users\Batuhan Demirbağ\source\repos\Virtual-Method\bin\Debug\net5.0\Virtual-Method.pdb
+C:\Users\Batuhan Demirbağ\source\repos\Virtual-Method\obj\Debug\net5.0\Virtual-Method.csprojAssemblyReference.cache
+C:\Users\Batuhan Demirbağ\source\repos\Virtual-Method\obj\Debug\net5.0\Virtual-Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batuhan Demirbağ\source\repos\Virtual-Method\obj\Debug\net5.0\Virtual-Method.AssemblyInfoInputs.cache
+C:\Users\Batuhan Demirbağ\source\repos\Virtual-Method\obj\Debug\net5.0\Virtual-Method.AssemblyInfo.cs
+C:\Users\Batuhan Demirbağ\source\repos\Virtual-Method\obj\Debug\net5.0\Virtual-Method.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan Demirbağ\source\repos\Virtual-Method\obj\Debug\net5.0\Virtual-Method.dll
+C:\Users\Batuhan Demirbağ\source\repos\Virtual-Method\obj\Debug\net5.0\ref\Virtual-Method.dll
+C:\Users\Batuhan Demirbağ\source\repos\Virtual-Method\obj\Debug\net5.0\Virtual-Method.pdb
+C:\Users\Batuhan Demirbağ\source\repos\Virtual-Method\obj\Debug\net5.0\Virtual-Method.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Batuhan Demirbağ\source\repos\Constructor-Injection\bin\Debug\net5.0\Constructor-Injection.exe
+C:\Users\Batuhan Demirbağ\source\repos\Constructor-Injection\bin\Debug\net5.0\Constructor-Injection.deps.json
+C:\Users\Batuhan Demirbağ\source\repos\Constructor-Injection\bin\Debug\net5.0\Constructor-Injection.runtimeconfig.json
+C:\Users\Batuhan Demirbağ\source\repos\Constructor-Injection\bin\Debug\net5.0\Constructor-Injection.runtimeconfig.dev.json
+C:\Users\Batuhan Demirbağ\source\repos\Constructor-Injection\bin\Debug\net5.0\Constructor-Injection.dll
+C:\Users\Batuhan Demirbağ\source\repos\Constructor-Injection\bin\Debug\net5.0\ref\Constructor-Injection.dll
+C:\Users\Batuhan Demirbağ\source\repos\Constructor-Injection\bin\Debug\net5.0\Constructor-Injection.pdb
+C:\Users\Batuhan Demirbağ\source\repos\Constructor-Injection\obj\Debug\net5.0\Constructor-Injection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batuhan Demirbağ\source\repos\Constructor-Injection\obj\Debug\net5.0\Constructor-Injection.AssemblyInfoInputs.cache
+C:\Users\Batuhan Demirbağ\source\repos\Constructor-Injection\obj\Debug\net5.0\Constructor-Injection.AssemblyInfo.cs
+C:\Users\Batuhan Demirbağ\source\repos\Constructor-Injection\obj\Debug\net5.0\Constructor-Injection.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan Demirbağ\source\repos\Constructor-Injection\obj\Debug\net5.0\Constructor-Injection.dll
+C:\Users\Batuhan Demirbağ\source\repos\Constructor-Injection\obj\Debug\net5.0\ref\Constructor-Injection.dll
+C:\Users\Batuhan Demirbağ\source\repos\Constructor-Injection\obj\Debug\net5.0\Constructor-Injection.pdb
+C:\Users\Batuhan Demirbağ\source\repos\Constructor-Injection\obj\Debug\net5.0\Constructor-Injection.genruntimeconfig.cache

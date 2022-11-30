@@ -1,0 +1,16 @@
+C:\Users\Batuhan Demirbağ\source\repos\Abstract-Classes\bin\Debug\net5.0\Abstract-Classes.exe
+C:\Users\Batuhan Demirbağ\source\repos\Abstract-Classes\bin\Debug\net5.0\Abstract-Classes.deps.json
+C:\Users\Batuhan Demirbağ\source\repos\Abstract-Classes\bin\Debug\net5.0\Abstract-Classes.runtimeconfig.json
+C:\Users\Batuhan Demirbağ\source\repos\Abstract-Classes\bin\Debug\net5.0\Abstract-Classes.runtimeconfig.dev.json
+C:\Users\Batuhan Demirbağ\source\repos\Abstract-Classes\bin\Debug\net5.0\Abstract-Classes.dll
+C:\Users\Batuhan Demirbağ\source\repos\Abstract-Classes\bin\Debug\net5.0\ref\Abstract-Classes.dll
+C:\Users\Batuhan Demirbağ\source\repos\Abstract-Classes\bin\Debug\net5.0\Abstract-Classes.pdb
+C:\Users\Batuhan Demirbağ\source\repos\Abstract-Classes\obj\Debug\net5.0\Abstract-Classes.csprojAssemblyReference.cache
+C:\Users\Batuhan Demirbağ\source\repos\Abstract-Classes\obj\Debug\net5.0\Abstract-Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batuhan Demirbağ\source\repos\Abstract-Classes\obj\Debug\net5.0\Abstract-Classes.AssemblyInfoInputs.cache
+C:\Users\Batuhan Demirbağ\source\repos\Abstract-Classes\obj\Debug\net5.0\Abstract-Classes.AssemblyInfo.cs
+C:\Users\Batuhan Demirbağ\source\repos\Abstract-Classes\obj\Debug\net5.0\Abstract-Classes.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan Demirbağ\source\repos\Abstract-Classes\obj\Debug\net5.0\Abstract-Classes.dll
+C:\Users\Batuhan Demirbağ\source\repos\Abstract-Classes\obj\Debug\net5.0\ref\Abstract-Classes.dll
+C:\Users\Batuhan Demirbağ\source\repos\Abstract-Classes\obj\Debug\net5.0\Abstract-Classes.pdb
+C:\Users\Batuhan Demirbağ\source\repos\Abstract-Classes\obj\Debug\net5.0\Abstract-Classes.genruntimeconfig.cache

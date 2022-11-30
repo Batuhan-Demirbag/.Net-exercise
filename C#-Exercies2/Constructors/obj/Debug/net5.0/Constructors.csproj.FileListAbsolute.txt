@@ -1,0 +1,16 @@
+C:\Users\Batuhan Demirbağ\source\repos\Constructors\bin\Debug\net5.0\Constructors.exe
+C:\Users\Batuhan Demirbağ\source\repos\Constructors\bin\Debug\net5.0\Constructors.deps.json
+C:\Users\Batuhan Demirbağ\source\repos\Constructors\bin\Debug\net5.0\Constructors.runtimeconfig.json
+C:\Users\Batuhan Demirbağ\source\repos\Constructors\bin\Debug\net5.0\Constructors.runtimeconfig.dev.json
+C:\Users\Batuhan Demirbağ\source\repos\Constructors\bin\Debug\net5.0\Constructors.dll
+C:\Users\Batuhan Demirbağ\source\repos\Constructors\bin\Debug\net5.0\ref\Constructors.dll
+C:\Users\Batuhan Demirbağ\source\repos\Constructors\bin\Debug\net5.0\Constructors.pdb
+C:\Users\Batuhan Demirbağ\source\repos\Constructors\obj\Debug\net5.0\Constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batuhan Demirbağ\source\repos\Constructors\obj\Debug\net5.0\Constructors.AssemblyInfoInputs.cache
+C:\Users\Batuhan Demirbağ\source\repos\Constructors\obj\Debug\net5.0\Constructors.AssemblyInfo.cs
+C:\Users\Batuhan Demirbağ\source\repos\Constructors\obj\Debug\net5.0\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan Demirbağ\source\repos\Constructors\obj\Debug\net5.0\Constructors.dll
+C:\Users\Batuhan Demirbağ\source\repos\Constructors\obj\Debug\net5.0\ref\Constructors.dll
+C:\Users\Batuhan Demirbağ\source\repos\Constructors\obj\Debug\net5.0\Constructors.pdb
+C:\Users\Batuhan Demirbağ\source\repos\Constructors\obj\Debug\net5.0\Constructors.genruntimeconfig.cache
+C:\Users\Batuhan Demirbağ\source\repos\Constructors\obj\Debug\net5.0\Constructors.csprojAssemblyReference.cache
